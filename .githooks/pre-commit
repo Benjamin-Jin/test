@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "hooks worked!"
+
+exit 0
